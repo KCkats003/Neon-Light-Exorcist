@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638382443999658023
-    m_Hash: 1646665576
+      ticks: 638401962828387406
+    m_Hash: 105689471
   m_LockFileStatus:
     m_FilePath: C:/Users/andre/OneDrive/Documents/GitHub/Neon-Light-Exorcist/NeonLightExorcist_0.0.1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638382444098348229
-    m_Hash: 3233714513
+      ticks: 638401962828387406
+    m_Hash: 546165422
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
